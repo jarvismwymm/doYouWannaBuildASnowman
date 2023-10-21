@@ -6,11 +6,11 @@ let startButton
 let instructionsDiv
 let lettersButtons
 let emptySpaces
-let remainingTurns = 6
 let resultDiv
 let wordIncorrectlyGuessedDiv
 let opacity = 1
 let snowmanpng
+let remainingTurns = 6
 
   /*----- state variables -----*/
   const alphabet = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
