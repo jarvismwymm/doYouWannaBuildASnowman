@@ -6,6 +6,8 @@ guess incorrectly 6 times before your snowman disappears. To win, spell the enti
 
 Technologies Used: HTML, CSS, Javascript
 
+Trello Link: https://trello.com/b/Z19eC6Mi/project-1
+
 Getting Started: https://jarvismwymm.github.io/doYouWannaBuildASnowman/
 
 Next Steps : Add custom styling to the fonts. Style it to perfection.
